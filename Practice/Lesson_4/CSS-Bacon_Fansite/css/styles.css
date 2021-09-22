@@ -1,0 +1,33 @@
+/**********************  Tag Section  **********************/
+h1{
+  color: red;
+  font-size: 40px
+}
+
+/* img{
+  background-color: green;
+  height: 200px
+} */
+
+/**********************  Class Section  **********************/
+.bacon{
+  background-color: green;
+  height: 300px;
+}
+.bacon:hover{
+  border-radius: 100%;
+}
+
+.people{
+  background-color: red;
+  height: 200px;
+}
+
+.circular{
+  border-radius: 100%
+}
+
+/**********************  Id Section  **********************/
+#heading{
+  color: green;
+}
