@@ -1,0 +1,13 @@
+h1 {
+  color: red;
+}
+
+.btn-green{
+  background-color: green;
+}
+
+.huge{
+  font-size: 20rem;
+  color: blue;
+  font-weight: bold;
+}
